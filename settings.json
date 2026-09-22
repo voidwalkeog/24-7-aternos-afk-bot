@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ss_sufen01.aternos.me",
+    "username": "AFK_Bot_01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "ss_sufen01.aternos.me",
     "port": 61321,
     "version": "1.20.1",
     "try-creative": false
